@@ -59,7 +59,7 @@ This is the logical structure of the project. If your local filenames differ, up
 
 ```bash
 git clone <your-repository-url>
-cd hr_rag
+cd hr_rag_assistant
 ```
 
 ### 2. Create and activate a virtual environment
